@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
@@ -27,14 +27,7 @@
 
 ###
 
-<div align="left">
-  
-  <img src="https://www.instagram.com/abhishek.adhikari.522/?hl=en" height="35" alt="instagram logo"  />
-  
-  
-  
-  <img src="https://www.linkedin.com/in/abhishek-adhikari-26011a2a9/" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 
